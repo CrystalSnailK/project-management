@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 2,
+  "data": [
+    {
+      "id": 202007234110,
+      "stu_name": "学生一",
+      "password": "11111jsjgkdhs",
+      "gender": "男",
+      "department": "数学与统计学院",
+      "grade": "2020",
+      "major": "信息与计算科学",
+      "class_num": "1",
+      "email": "2860034678@qq.com",
+      "phone": "18826708171"
+    },
+    {
+      "id": 202007234111,
+      "stu_name": "学生二",
+      "password": "123456",
+      "gender": "男",
+      "department": "数学与统计学院",
+      "grade": "年纪",
+      "major": "专业",
+      "class_num": "班级",
+      "email": "邮箱",
+      "phone": "电话"
+    }
+  ]
+}
